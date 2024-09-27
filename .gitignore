@@ -1,0 +1,10 @@
+.vscode/*
+__pycache__
+ftbquests*/*
+*.spec
+*.ico
+build
+dist
+snbtlib
+models
+.idea
