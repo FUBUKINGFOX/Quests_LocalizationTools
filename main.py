@@ -1,3 +1,5 @@
+#=== encoding UTF-8 ====
+
 from func.base import check_config_exists
 
 VERSION = 'v0.0.1'
